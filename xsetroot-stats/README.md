@@ -9,9 +9,9 @@ Arch: `sudo pacman -S lm_sensors xorg-xsetroot`
 Debian/DebianBased: `sudo apt install lm-sensors x11-xserver-utils`  
 
 `cd`  
-`git clone https://github.com/maalos/xsetroot-stats.git`  
-`cd xsetroot-stats`  
+`git clone https://github.com/maalos/arch-util.git`  
+`cd arch-util/xsetroot-stats`  
 `python main.py`  
 
 ### Start on X start
-Add `python ~/xsetroot-stats/main.py &` to `~/.xinitrc` (& is for running it in the background)
+Add `python ~/arch-util/xsetroot-stats/main.py &` to `~/.xinitrc` (& is for running it in the background)
