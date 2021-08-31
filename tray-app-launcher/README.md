@@ -8,9 +8,9 @@ Simple app launcher made in python
 `pip install pillow pystray`
 
 `cd`  
-`git clone https://github.com/maalos/tray-app-launcher.git`  
-`cd tray-app-launcher`  
+`git clone https://github.com/maalos/arch-util.git`  
+`cd arch-util/tray-app-launcher`  
 `python main.py`  
 
 ### Start on X start
-Add `cd ~/tray-app-launcher/ && python main.py &` to `~/.xinitrc` (`&` is for running it in the background)
+Add `cd ~/arch-util/tray-app-launcher/ && python main.py &` to `~/.xinitrc` (`&` is for running it in the background)
