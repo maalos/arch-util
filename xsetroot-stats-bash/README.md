@@ -3,7 +3,7 @@
 More resource-efficient version of xsetroot-stats. Displays the current time, date, local IP address and CPU temperature in your top right corner of the screen  
 NOTE: Made for dwm, other WM's might need some adjustment
 
-![image](../xsetroot-stats/xsetroot-stats.png)
+![image](xsetroot-stats-bash.png)
 
 ## Installation
 Arch: `sudo pacman -S lm_sensors xorg-xsetroot`  
