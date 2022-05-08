@@ -9,8 +9,7 @@ NOTE: Made for dwm, other WM's might need some adjustment
 Arch: `sudo pacman -S lm_sensors xorg-xsetroot`  
 Debian/DebianBased: `sudo apt install lm-sensors x11-xserver-utils`  
 
-`cd`  
-`git clone https://github.com/maalos/arch-util.git`  
+`cd; git clone https://github.com/maalos/arch-util.git`  
 
 ### Start on X start
 Add `bash ~/arch-util/xsetroot-stats-bash/main.sh &` to `~/.xinitrc` (& is for running it in the background)
