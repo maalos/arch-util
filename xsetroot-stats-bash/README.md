@@ -1,6 +1,6 @@
 # xsetroot-stats-bash
 
-More resource-efficient version of xsetroot-stats. Displays the current time, date, local IP address and CPU temperature in your top right corner of the screen  
+More resource-efficient version of xsetroot-stats. Displays the current time, date, local IP address, temperature for the specified city and CPU temperature in your top right corner of the screen  
 NOTE: Made for dwm, other WM's might need some adjustment
 
 ![image](xsetroot-stats-bash.png)
